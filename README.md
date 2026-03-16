@@ -36,17 +36,24 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier with and without filter:
+![alt text](<WhatsApp Image 2026-03-16 at 7.30.43 PM.jpeg>)
 
-Bridge rectifier with filter:
+Bridge rectifier with and without filter:
+![alt text](<WhatsApp Image 2026-03-16 at 7.30.58 PM.jpeg>)
 
 TABULAR COLUMN
 Rectifier without filter
+![alt text](<WhatsApp Image 2026-03-16 at 7.31.37 PM.jpeg>)
+ 
 TABULAR COLUMN
 Rectifier with filter
+![alt text](<WhatsApp Image 2026-03-16 at 7.31.52 PM.jpeg>)
+
 
 WAVEFORM:
-
+![alt text](<WhatsApp Image 2026-03-16 at 7.32.29 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-03-16 at 7.32.39 PM.jpeg>)
 
 RESULT:
 
